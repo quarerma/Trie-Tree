@@ -1,11 +1,11 @@
 To compile:
 
 ```
-g++ main.cpp -o teste
+g++ main.cpp -o test
 ```
 
 To run:
 
 ```
-./teste
+./test
 ```
